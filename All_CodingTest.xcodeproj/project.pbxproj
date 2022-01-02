@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		A057A7152781A38F0025DACE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A057A7142781A38F0025DACE /* main.swift */; };
+		A057A71D2781A3FE0025DACE /* SecretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = A057A71C2781A3FE0025DACE /* SecretMap.swift */; };
+		A057A71F2781A4320025DACE /* Run.swift in Sources */ = {isa = PBXBuildFile; fileRef = A057A71E2781A4320025DACE /* Run.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		A057A7112781A38F0025DACE /* All_CodingTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = All_CodingTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A057A7142781A38F0025DACE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A057A71C2781A3FE0025DACE /* SecretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretMap.swift; sourceTree = "<group>"; };
+		A057A71E2781A4320025DACE /* Run.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Run.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +62,18 @@
 			isa = PBXGroup;
 			children = (
 				A057A7142781A38F0025DACE /* main.swift */,
+				A057A71E2781A4320025DACE /* Run.swift */,
+				A057A71B2781A3ED0025DACE /* Programers */,
 			);
 			path = All_CodingTest;
+			sourceTree = "<group>";
+		};
+		A057A71B2781A3ED0025DACE /* Programers */ = {
+			isa = PBXGroup;
+			children = (
+				A057A71C2781A3FE0025DACE /* SecretMap.swift */,
+			);
+			path = Programers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,6 +134,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A057A71D2781A3FE0025DACE /* SecretMap.swift in Sources */,
+				A057A71F2781A4320025DACE /* Run.swift in Sources */,
 				A057A7152781A38F0025DACE /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
