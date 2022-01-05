@@ -10,6 +10,7 @@
 		A057A7152781A38F0025DACE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A057A7142781A38F0025DACE /* main.swift */; };
 		A057A71D2781A3FE0025DACE /* SecretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = A057A71C2781A3FE0025DACE /* SecretMap.swift */; };
 		A057A71F2781A4320025DACE /* Run.swift in Sources */ = {isa = PBXBuildFile; fileRef = A057A71E2781A4320025DACE /* Run.swift */; };
+		A057FD3B2785A5FA008D17A4 /* DartGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = A057FD3A2785A5FA008D17A4 /* DartGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		A057A7142781A38F0025DACE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A057A71C2781A3FE0025DACE /* SecretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretMap.swift; sourceTree = "<group>"; };
 		A057A71E2781A4320025DACE /* Run.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Run.swift; sourceTree = "<group>"; };
+		A057FD3A2785A5FA008D17A4 /* DartGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DartGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				A057A71C2781A3FE0025DACE /* SecretMap.swift */,
+				A057FD3A2785A5FA008D17A4 /* DartGame.swift */,
 			);
 			path = Programers;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			files = (
 				A057A71D2781A3FE0025DACE /* SecretMap.swift in Sources */,
 				A057A71F2781A4320025DACE /* Run.swift in Sources */,
+				A057FD3B2785A5FA008D17A4 /* DartGame.swift in Sources */,
 				A057A7152781A38F0025DACE /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

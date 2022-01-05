@@ -9,4 +9,4 @@ import Foundation
 
 print("Hello, World!")
 
-SecretMap().run()
+DartGame().run()
