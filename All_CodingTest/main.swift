@@ -7,6 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
 
-NumberDivisorArray().run()
+FindKim().run()
