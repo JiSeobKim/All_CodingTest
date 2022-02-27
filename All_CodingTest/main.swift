@@ -8,4 +8,4 @@
 import Foundation
 
 
-FindKim().run()
+문자열을_정수로_바꾸기().run()
